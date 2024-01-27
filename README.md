@@ -48,8 +48,6 @@ dotnet run
 
 ## Authors
 
-Contributors names and contact info
-
 Pedro Payares
 [payares7@gmail.com](payares7@gmail.com)
 
