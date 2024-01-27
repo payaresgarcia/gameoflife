@@ -43,7 +43,7 @@ dotnet run
 
 * Check the url prompted in console
 * Paste the url in your browser
-<<url>>/swagger/index.html
+[url]/swagger/index.html
 
 
 ## Authors
